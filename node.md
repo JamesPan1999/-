@@ -2,9 +2,9 @@
 
 https://www.bilibili.com/video/BV1HM411377j?p=8&vd_source=55cda1d3c417173da89292890bfc3059
 
-![](/home/melodic/James_workspace/github_learning/figure/image-20231227165058475.png)
+![](./figure/image-20231227165058475.png)
 
-![](/home/melodic/James_workspace/github_learning/figure/image-20231227202143234.png)
+![](./figure/image-20231227202143234.png)
 
 ```sh
 git config --global user.name 'JamesPan1999'
@@ -19,7 +19,7 @@ git add   （可以上传整个文件夹下的所有内容）
 
 ```
 
-![](/home/melodic/James_workspace/github_learning/figure/gir_rm.png)
+![](./figure/gir_rm.png)
 
 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
 
